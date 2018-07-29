@@ -1,0 +1,2 @@
+# firstplugin
+first minecraft plugin
